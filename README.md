@@ -31,4 +31,5 @@
 - localhost:3000/delete/user/:id
 - method: DELETE
 # Desemvolvipo por mim :)
-![1681962773106](https://github.com/BlackPoowerDev/sqlite3-node.js/assets/116099170/538626e6-7b61-471f-be1f-7ec6c5b610bb)
+| [<img loading="lazy" src="(https://github.com/BlackPoowerDev/sqlite3-node.js/assets/116099170/538626e6-7b61-471f-be1f-7ec6c5b610bb" width=115><br><sub>Rene s.</sub>](https://github.com/BlackPoowerDev/Clima)
+| :---: | :---: | :---: |
