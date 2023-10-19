@@ -2,7 +2,10 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=NODE.JS&message=FRAMEWORK&color=blue&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-# Como rodar a aplicação ▶️
+# ▶️ Como rodar a aplicação 
 - npm install express
 - npm install dotenv
 - npm install sqlite3
+
+# ✔️ iniciar aplicação 
+- node app.js
