@@ -30,5 +30,5 @@
 - # Rota para deletar usuario
 - localhost:3000/delete/user/:id
 - method: DELETE
-# Desemvolvipo por mim :)
+# Desemvolvedor
 <img src="https://github.com/BlackPoowerDev/sqlite3-node.js/assets/116099170/538626e6-7b61-471f-be1f-7ec6c5b610bb" width="75"><br><a href="https://github.com/BlackPoowerDev/">Rene S.</a>
