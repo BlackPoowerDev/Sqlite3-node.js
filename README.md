@@ -9,3 +9,24 @@
 
 # ✔️ iniciar aplicação 
 - node app.js
+
+# Rota para registro
+- localhost:3000/register/
+- method: POST
+- type: JSON
+- {
+	"nome": "black",
+	"email": "black123@gmail.com",
+	"senha": "black123"
+}
+- # Rota para visualizar usuario
+- localhost:3000/user/:id
+- method: GET
+
+# Rota para atualizar usuario
+- localhost:3000/update/user/:id
+- method: PUT
+
+- # Rota para deletar usuario
+- localhost:3000/delete/user/:id
+- method: DELETE
