@@ -14,7 +14,7 @@
 - localhost:3000/register/
 - method: POST
 - type: JSON
-- {
+- body: {
 	"nome": "black",
 	"email": "black123@gmail.com",
 	"senha": "black123"
@@ -30,3 +30,5 @@
 - # Rota para deletar usuario
 - localhost:3000/delete/user/:id
 - method: DELETE
+# Desemvolvipo por mim :)
+![1681962773106](https://github.com/BlackPoowerDev/sqlite3-node.js/assets/116099170/538626e6-7b61-471f-be1f-7ec6c5b610bb)
