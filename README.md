@@ -3,10 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 # ▶️ Como rodar a aplicação 
-- npm install express
-- npm install dotenv
-- npm install sqlite3
-
+- npm i express dotenv sqlite3
 # ✔️ iniciar aplicação 
 - node app.js
 
